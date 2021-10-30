@@ -1,3 +1,0 @@
-Info 100 50 20
-Physics 30 0 10
-Math 0 0 30
